@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=venom&color=#808080&height=300&section=header&text=심태욱&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=808080&height=300&section=header&text=심태욱&fontSize=90)
 
 <a href="https://www.instagram.com/rndox_99" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=instagram&logo=instagram&logoColor=gray"/></a>
