@@ -3,7 +3,7 @@
 
 
 <a href="https://www.instagram.com/rndox_99" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=instagram&logo=instagram&logoColor=white"/></a>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DDDDKo)](https://github.com/DDDDKo)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DDDDKo&show_icons=true&theme=graywhite)](https://github.com/DDDDKo)
 
 ![footer](https://capsule-render.vercel.app/api?&type=waving)
