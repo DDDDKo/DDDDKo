@@ -8,7 +8,6 @@
 <a href="https://www.python.org/" target="_blank">
   <img src="https://img.shields.io/badge/python-3776AB?style=instagram&logo=python&logoColor=white&color=000000" alt="Python" style="width: 100px; height: 25px;"/>
 </a>
-
 <a href="https://www.mysql.com/" target="_blank">
   <img src="https://img.shields.io/badge/mysql-E4405F?style=instagram&logo=mysql&logoColor=white&color=000000" alt="MySQL" style="width: 100px; height: 25px;"/>
 </a>
