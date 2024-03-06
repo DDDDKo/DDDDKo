@@ -7,13 +7,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=My+Skill)](https://git.io/typing-svg)   
 <a href="https://www.python.org/" target="_blank">
-  <img src="https://img.shields.io/badge/python-3776AB?style=instagram&logo=Python&logoColor=white&color=000000" alt="Python" style="width: 100px; height: 25px;"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=instagram&logo=Python&logoColor=white&color=000000" alt="Python" style="width: 100px; height: 25px;"/>
 </a>
 <a href="https://www.mysql.com/" target="_blank">
-  <img src="https://img.shields.io/badge/mysql-E4405F?style=instagram&logo=MySQL&logoColor=white&color=000000" alt="MySQL" style="width: 100px; height: 25px;"/>
+  <img src="https://img.shields.io/badge/MySQL-E4405F?style=instagram&logo=MySQL&logoColor=white&color=000000" alt="MySQL" style="width: 100px; height: 25px;"/>
 </a>
 <a href="[https://www.mysql.com/](https://jupyter.org/)" target="_blank">
-  <img src="https://img.shields.io/badge/jupyter-E4405F?style=instagram&logo=Jupyter&logoColor=white&color=000000" alt="Jupyter" style="width: 100px; height: 25px;"/>
+  <img src="https://img.shields.io/badge/Jupyter-E4405F?style=instagram&logo=Jupyter&logoColor=white&color=000000" alt="Jupyter" style="width: 100px; height: 25px;"/>
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DDDDKo)](https://github.com/DDDDKo)  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DDDDKo&show_icons=true&theme=graywhite)](https://github.com/DDDDKo)
