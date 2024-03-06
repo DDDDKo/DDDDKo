@@ -15,7 +15,7 @@
 <a href="[https://www.mysql.com/](https://jupyter.org/)" target="_blank">
   <img src="https://img.shields.io/badge/Jupyter-E4405F?style=instagram&logo=Jupyter&logoColor=white&color=000000" alt="Jupyter" style="width: 100px; height: 25px;"/>
 </a>
-<a href="[https://www.mysql.com/](https://jupyter.org/)" target="_blank">
+<a href="[https://www.mysql.com/]([https://jupyter.org/](https://github.com/DDDDKo))" target="_blank">
   <img src="https://img.shields.io/badge/HTML5-E4405F?style=instagram&logo=HTML5&logoColor=white&color=000000" alt="HTML5" style="width: 100px; height: 25px;"/>
 </a>
 
