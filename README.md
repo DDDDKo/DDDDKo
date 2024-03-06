@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://www.python.org/">
-<img src="https://img.shields.io/badge/Spring-E4405F?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-E4405F?style=flat-square&logo=python&logoColor=white&color=000000"/>
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DDDDKo)](https://github.com/DDDDKo)
