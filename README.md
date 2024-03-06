@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=심태욱&fontSize=90)
 
-<a href="https://www.instagram.com/rndox_99" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=instagram&logo=instagram&logoColor=gray"&fontSize=20/></a>
+<a href="https://www.instagram.com/rndox_99" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=instagram&logo=instagram&logoColor=gray"/></a>
