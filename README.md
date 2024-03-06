@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/instagram-E4405F?style=instagram&logo=instagram&logoColor=white&color=000000"/>
 </a>
 
-<a href="https://www.instagram.com/">
+<a href="https://www.python.org/">
 <img src="https://img.shields.io/badge/Spring-E4405F?style=flat-square&logo=python&logoColor=white"/>
 </a>
 
