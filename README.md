@@ -4,5 +4,5 @@
 
 <a href="https://www.instagram.com/rndox_99" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=instagram&logo=instagram&logoColor=white"/></a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DDDDKo&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DDDDKo&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
