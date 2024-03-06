@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://www.python.org/" target="_blank">
-<img src="https://img.shields.io/badge/python-E4405F?style=instagram&logo=python&logoColor=white&color=000000 alt="Instagram" style="width: 200px; height: 50px;/>
+  <img src="https://img.shields.io/badge/python-3776AB?style=instagram&logo=python&logoColor=white&color=000000" alt="Python" style="width: 200px; height: 50px;"/>
 </a>
 
 <a href="https://www.mysql.com/" target="_blank">
