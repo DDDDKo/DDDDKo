@@ -5,11 +5,11 @@
 </a>
 
 <a href="https://www.python.org/" target="_blank">
-<img src="https://img.shields.io/badge/python-E4405F?style=instagram&logo=python&logoColor=white&color=000000 alt="python" style="width: 200px; height: 50px;/>
+<img src="https://img.shields.io/badge/python-E4405F?style=instagram&logo=python&logoColor=white&color=000000 alt="Instagram" style="width: 200px; height: 50px;/>
 </a>
 
 <a href="https://www.mysql.com/" target="_blank">
-<img src="https://img.shields.io/badge/mysql-E4405F?style=instagram&logo=mysql&logoColor=white&color=000000 alt="mysql" style="width: 200px; height: 50px;/>
+<img src="https://img.shields.io/badge/mysql-E4405F?style=instagram&logo=mysql&logoColor=white&color=000000 alt="Instagram" style="width: 200px; height: 50px;/>
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DDDDKo)](https://github.com/DDDDKo)
