@@ -9,7 +9,7 @@
 </a>
 
 <a href="https://www.mysql.com/" target="_blank">
-<img src="https://img.shields.io/badge/mysql-E4405F?style=instagram&logo=mysql&logoColor=white&color=000000 alt="Instagram" style="width: 200px; height: 50px;/>
+<img src="https://img.shields.io/badge/mysql-3776AB?style=instagram&logo=mysql&logoColor=white&color=000000 alt="Instagram" style="width: 200px; height: 50px;/>
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DDDDKo)](https://github.com/DDDDKo)
