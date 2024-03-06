@@ -8,6 +8,10 @@
 <img src="https://img.shields.io/badge/python-E4405F?style=instagram&logo=python&logoColor=white&color=000000"/>
 </a>
 
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://img.shields.io/badge/mysql-E4405F?style=instagram&logo=mysql&logoColor=white&color=000000"/>
+</a>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DDDDKo)](https://github.com/DDDDKo)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DDDDKo&show_icons=true&theme=graywhite)](https://github.com/DDDDKo)
