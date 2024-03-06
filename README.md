@@ -2,7 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=My+SNS)](https://git.io/typing-svg)
 
-[![Instagram](https://img.shields.io/badge/instagram-E4405F?style=instagram&logo=instagram&logoColor=white&color=000000&fontSize=30)](https://www.instagram.com/rndox_99){:height="50px" width="200px"}
+[![Instagram](https://img.shields.io/badge/instagram-E4405F?style=instagram&logo=instagram&logoColor=white&color=000000)](https://www.instagram.com/rndox_99){:height="50px" width="200px"}
+
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=Studying+Language)](https://git.io/typing-svg)  
