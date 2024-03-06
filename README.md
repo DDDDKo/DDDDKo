@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=심태욱&fontSize=90)
-<a href="https://www.instagram.com/rndox_99" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+<a href="https://www.instagram.com/rndox_99" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-E4405F?style=instagram&logo=instagram&logoColor=gray"/></a>
