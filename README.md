@@ -6,4 +6,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DDDDKo&show_icons=true&theme=graywhite)](https://github.com/DDDDKo)
 
-![footer](https://capsule-render.vercel.app/api?&type=waving)
+![footer](https://capsule-render.vercel.app/api?&type=waving&color=000000)
