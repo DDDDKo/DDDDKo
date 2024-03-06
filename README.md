@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=My+SNS)](https://git.io/typing-svg)
 
-[![Instagram](https://img.shields.io/badge/instagram-E4405F?style=instagram&logo=instagram&logoColor=white&color=000000&width=430005&height=500000)](https://www.instagram.com/rndox_99)
+[![Instagram](https://img.shields.io/badge/instagram-E4405F?style=instagram&logo=instagram&width=430005&height=500000&logoColor=white&color=000000)](https://www.instagram.com/rndox_99)
 
 
 
