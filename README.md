@@ -13,8 +13,7 @@
   <img src="https://img.shields.io/badge/mysql-E4405F?style=instagram&logo=mysql&logoColor=white&color=000000" alt="MySQL" style="width: 100px; height: 25px;"/>
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DDDDKo)](https://github.com/DDDDKo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DDDDKo)](https://github.com/DDDDKo)  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DDDDKo&show_icons=true&theme=graywhite)](https://github.com/DDDDKo)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DDDDKo&show_icons=true&theme=graywhite)](https://github.com/DDDDKo)
 
 [![footer](https://capsule-render.vercel.app/api?&type=waving&color=000000)](https://github.com/DDDDKo)
