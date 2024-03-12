@@ -19,9 +19,9 @@
   <img src="https://img.shields.io/badge/HTML5-E4405F?style=instagram&logo=HTML5&logoColor=white&color=000000" alt="HTML5" style="width: 100px; height: 25px;"/>
 </a>
 <a href="https://jupyter.org/" target="_blank">
-  <img src="https://img.shields.io/badge/CSS-E4405F?style=instagram&logo=CSS&logoColor=white&color=000000" alt="CSS" style="width: 100px; height: 25px;"/>
+  <img src="https://img.shields.io/badge/CSS3-E4405F?style=instagram&logo=CSS3&logoColor=white&color=000000" alt="CSS" style="width: 100px; height: 25px;"/>
 </a>
-  <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>CSS3</title><path d="M1.5 0h21l-1.91 21.563L11.977 24l-8.565-2.438L1.5 0zm17.09 4.413L5.41 4.41l.213 2.622 10.125.002-.255 2.716h-6.64l.24 2.573h6.182l-.366 3.523-2.91.804-2.956-.81-.188-2.11h-2.61l.29 3.855L12 19.288l5.373-1.53L18.59 4.414z"/></svg>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DDDDKo)](https://github.com/DDDDKo)  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DDDDKo&show_icons=true&theme=graywhite)](https://github.com/DDDDKo)
 
