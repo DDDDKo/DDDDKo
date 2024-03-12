@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/HTML5-E4405F?style=instagram&logo=HTML5&logoColor=white&color=000000" alt="HTML5" style="width: 100px; height: 25px;"/>
 </a>
 <a href="https://jupyter.org/" target="_blank">
-  <img src="https://img.shields.io/badge/CSS3-E4405F?style=instagram&logo=CSS3&logoColor=white&color=000000" alt="CSS" style="width: 100px; height: 25px;"/>
+  <img src="https://img.shields.io/badge/CSS-E4405F?style=instagram&logo=CSS3&logoColor=white&color=000000" alt="CSS" style="width: 100px; height: 25px;"/>
 </a>
 
 
