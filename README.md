@@ -18,6 +18,9 @@
 <a href="https://github.com/DDDDKo" target="_blank">
   <img src="https://img.shields.io/badge/HTML5-E4405F?style=instagram&logo=HTML5&logoColor=white&color=000000" alt="HTML5" style="width: 100px; height: 25px;"/>
 </a>
+<a href="https://jupyter.org/" target="_blank">
+  <img src="https://img.shields.io/badge/CSS-E4405F?style=instagram&logo=CSS&logoColor=white&color=000000" alt="CSS" style="width: 100px; height: 25px;"/>
+</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DDDDKo)](https://github.com/DDDDKo)  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DDDDKo&show_icons=true&theme=graywhite)](https://github.com/DDDDKo)
 
