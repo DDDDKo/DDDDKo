@@ -21,6 +21,12 @@
 <a href="https://jupyter.org/" target="_blank">
   <img src="https://img.shields.io/badge/CSS-E4405F?style=instagram&logo=CSS3&logoColor=white&color=000000" alt="CSS" style="width: 100px; height: 25px;"/>
 </a>
+<a href="https://developer.mozilla.org/ko/docs/Web/JavaScript" target="_blank">
+  <img src="https://img.shields.io/badge/Java Script-E4405F?style=instagram&logo=javascript&logoColor=white&color=000000" alt="javascript" style="width: 100px; height: 25px;"/>
+</a>
+<a href="[https://jupyter.org/](https://spring.io/projects/spring-boot)" target="_blank">
+  <img src="https://img.shields.io/badge/Spring boot-E4405F?style=instagram&logo=springboot&logoColor=white&color=000000" alt="springboot" style="width: 100px; height: 25px;"/>
+</a>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DDDDKo)](https://github.com/DDDDKo)  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DDDDKo&show_icons=true&theme=graywhite)](https://github.com/DDDDKo)
