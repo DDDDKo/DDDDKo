@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Spring boot-E4405F?style=instagram&logo=springboot&logoColor=white&color=000000" alt="springboot" style="width: 100px; height: 25px;"/>
 </a>
 <a href="https://www.typescriptlang.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Spring boot-E4405F?style=instagram&logo=stypescript&logoColor=white&color=000000" alt="springboot" style="width: 100px; height: 25px;"/>
+  <img src="https://img.shields.io/badge/Type%20Script-E4405F?style=instagram&logo=typescript&logoColor=white&color=000000" alt="tpyescript" style="width: 100px; height: 25px;"/>
 </a>
 
 
