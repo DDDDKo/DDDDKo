@@ -15,10 +15,10 @@
 <a href="https://jupyter.org/" target="_blank">
   <img src="https://img.shields.io/badge/Jupyter-E4405F?style=instagram&logo=Jupyter&logoColor=white&color=000000" alt="Jupyter" style="width: 100px; height: 25px;"/>
 </a>
-<a href="https://github.com/DDDDKo" target="_blank">
+<a href="https://developer.mozilla.org/ko/docs/Web/html" target="_blank">
   <img src="https://img.shields.io/badge/HTML5-E4405F?style=instagram&logo=HTML5&logoColor=white&color=000000" alt="HTML5" style="width: 100px; height: 25px;"/>
 </a>
-<a href="https://jupyter.org/" target="_blank">
+<a href="https://developer.mozilla.org/ko/docs/Web/CSS" target="_blank">
   <img src="https://img.shields.io/badge/CSS-E4405F?style=instagram&logo=CSS3&logoColor=white&color=000000" alt="CSS" style="width: 100px; height: 25px;"/>
 </a>
 <a href="https://developer.mozilla.org/ko/docs/Web/JavaScript" target="_blank">
@@ -26,6 +26,9 @@
 </a>
 <a href="[https://jupyter.org/](https://spring.io/projects/spring-boot)" target="_blank">
   <img src="https://img.shields.io/badge/Spring boot-E4405F?style=instagram&logo=springboot&logoColor=white&color=000000" alt="springboot" style="width: 100px; height: 25px;"/>
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Spring boot-E4405F?style=instagram&logo=stypescript&logoColor=white&color=000000" alt="springboot" style="width: 100px; height: 25px;"/>
 </a>
 
 
