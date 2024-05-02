@@ -29,6 +29,9 @@
 <a href="https://www.typescriptlang.org/" target="_blank">
   <img src="https://img.shields.io/badge/Type%20Script-E4405F?style=instagram&logo=typescript&logoColor=white&color=000000" alt="tpyescript" style="width: 100px; height: 25px;"/>
 </a>
+<a href="https://ko.legacy.reactjs.org/" target="_blank">
+  <img src="https://img.shields.io/badge/React-E4405F?style=instagram&logo=react&logoColor=white&color=000000" alt="react" style="width: 100px; height: 25px;"/>
+</a>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DDDDKo)](https://github.com/DDDDKo)  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DDDDKo&show_icons=true&theme=graywhite)](https://github.com/DDDDKo)
