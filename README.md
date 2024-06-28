@@ -25,7 +25,7 @@
 ![Gmail](https://img.shields.io/badge/to4583@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ### 💼 My Project
-- [나의여행일기](https://classic-coaster-e95.notion.site/e004e0cde0e54b819a259e91e8b33860?pvs=4) - 여행 일정을 간편하게 정리하고 추억을 공유할 수 있는 웹사이트
+- 🚄 [나의여행일기](https://auspicious-sauce-714.notion.site/Travel-Diary-065fe33af4f843c5b0025f814c2b4f0d) - 여행 일정을 간편하게 정리하고 추억을 공유할 수 있는 웹사이트
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DDDDKo&show_icons=true&theme=graywhite)](https://github.com/DDDDKo)
 
