@@ -3,9 +3,6 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=instagram&logo=instagram&logoColor=pink&color=000000" alt="Instagram" style="width: 100px; height: 25px;"/>
 </a>  
 
-</br>
-</br>
-
 ### 🛠 Tech Stack
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
